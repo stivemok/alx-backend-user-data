@@ -1,4 +1,4 @@
-#!/user/bin/env python3
+#!/usr/bin/env python3
 """Filter datum function that returns the log message obfuscated"""
 import re
 import os
